@@ -1,6 +1,7 @@
 # Hi, I'm Dunky
 I'm a guy from brazil that does some silly stuff on the internet.
-I use mainly the Godot Game Engine, along with C# and JavaScript/TypeScript
+
+[![Epic skills moment](https://skillicons.dev/icons?i=ts,js,godot)](https://skillicons.dev)
 
 ## Other Stuff
 - Discord: **ItsDunky#6918**
