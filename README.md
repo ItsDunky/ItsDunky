@@ -4,7 +4,6 @@ Gruvbox is apparently my favorite theme.
 
 [![my skills or something](https://skillicons.dev/icons?i=ts,js,deno,cs,dotnet,vscode,godot&perline=3)](https://skillicons.dev)
 
-Github stats:
 ![Dunky's cool GitHub stats](https://github-readme-stats.vercel.app/api?username=itsDunky&show_icons=true&theme=gruvbox)
 
 ## Other Stuff
